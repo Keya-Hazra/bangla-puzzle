@@ -10,10 +10,10 @@ const Landing = () => {
 				<div className="absolute w-full ">
 					<Navbar />
 					<CheckIn />
-					<div className="flex justify-center items-center pt-40">
+					<div className="flex items-center justify-center pt-40">
 						<div className="space-y-4 text-lg">
 							<p className="font-semibold">Not sure where to go? Perfect.</p>
-							<button className="bg-white rounded-3xl shadow-2xl px-6 py-3 text-purple-800 font-semibold">
+							<button className="px-6 py-3 font-semibold text-purple-800 bg-white shadow-2xl rounded-3xl">
 								I'm flexible
 							</button>
 						</div>
